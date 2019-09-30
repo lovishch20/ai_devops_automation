@@ -1,0 +1,10 @@
+2019-09-25 12:02:29,896:INFO:Starting pipeline creation for operation::create
+2019-09-25 12:02:29,897:INFO:Creating new pipeline
+2019-09-25 12:11:20,073:INFO:Starting pipeline creation for operation::create
+2019-09-25 12:11:20,075:INFO:DVC file already exists
+2019-09-25 12:11:29,446:INFO:Starting pipeline creation for operation::update
+2019-09-25 12:11:29,454:INFO:DVC file already exists , updating the file
+2019-09-25 12:11:51,279:INFO:Starting pipeline creation for operation::update
+2019-09-25 12:11:51,284:INFO:DVC file already exists , updating the file
+2019-09-25 12:15:00,220:INFO:Starting pipeline creation for operation::update
+2019-09-25 12:15:00,221:INFO:DVC file already exists , updating the file

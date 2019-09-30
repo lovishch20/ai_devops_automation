@@ -1,0 +1,8 @@
+md5: c0b71ef6c27b99698157df2c2bd2e793
+wdir: ..
+outs:
+- md5: 35b4cf965bb4fcbb3739e893b322b7a2.dir
+  path: ai_devops_automation/data
+  cache: true
+  metric: false
+  persist: false

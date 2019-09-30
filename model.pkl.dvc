@@ -1,0 +1,16 @@
+md5: da84f62418f317495dc5c0250bb397c1
+cmd: python ai_devops_automation/code/pytrain.py
+wdir: .
+deps:
+- md5: b4592a8a9a1d789eb31109678a19bc5d
+  path: ai_devops_automation/code/pytrain.py
+- md5: 35b4cf965bb4fcbb3739e893b322b7a2.dir
+  path: ai_devops_automation/data
+- md5: 1ff30e2cd7579302ad8d0e0be03ff8ac
+  path: ai_devops_automation/data.dvc
+outs:
+- md5: 4be3745e2d4b1c99911771233115299a
+  path: ai_devops_automation/output/model.pkl
+  cache: true
+  metric: false
+  persist: false
