@@ -1,8 +1,0 @@
-2019-09-25 15:17:24,194:INFO:Starting pipeline creation for operation::update
-2019-09-25 15:17:24,195:INFO:DVC file does not exists ,can not perform update operation
-2019-09-25 15:18:05,905:INFO:Starting pipeline creation for operation::update
-2019-09-25 15:18:05,906:INFO:DVC file does not exists ,can not perform update operation
-2019-09-25 15:36:22,014:INFO:Starting pipeline creation for operation::create
-2019-09-25 15:36:22,016:INFO:Creating new pipeline
-2019-09-25 15:41:23,644:INFO:Starting pipeline creation for operation::update
-2019-09-25 15:41:23,645:INFO:DVC file already exists , updating the file

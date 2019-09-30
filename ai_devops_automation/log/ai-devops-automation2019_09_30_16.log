@@ -14,3 +14,5 @@
 2019-09-30 16:27:15,041:INFO:DVC file does not exists ,can not perform update operation
 2019-09-30 16:27:17,090:INFO:Starting pipeline creation for operation::create
 2019-09-30 16:27:17,093:INFO:Creating new pipeline
+2019-09-30 16:40:43,592:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:40:43,595:INFO:DVC file already exists , updating the file
