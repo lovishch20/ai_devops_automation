@@ -1,15 +1,15 @@
-md5: da84f62418f317495dc5c0250bb397c1
+md5: 91c30a22ed24b36520a6362ee4c3495c
 cmd: python ai_devops_automation/code/pytrain.py
 wdir: .
 deps:
-- md5: b4592a8a9a1d789eb31109678a19bc5d
+- md5: b0c114a01e62b538fbbe7e51aa4e0de2
   path: ai_devops_automation/code/pytrain.py
-- md5: 35b4cf965bb4fcbb3739e893b322b7a2.dir
+- md5: 8de4112d49478872d9502435f4456478.dir
   path: ai_devops_automation/data
-- md5: 1ff30e2cd7579302ad8d0e0be03ff8ac
+- md5: fe73cf91e3a6ef83a87acd11ababf22a
   path: ai_devops_automation/data.dvc
 outs:
-- md5: 4be3745e2d4b1c99911771233115299a
+- md5: a3f8ecb790dc9d0d96f0debb8182ab19
   path: ai_devops_automation/output/model.pkl
   cache: true
   metric: false

@@ -6,3 +6,11 @@
 2019-09-30 16:13:07,217:INFO:DVC file already exists , updating the file
 2019-09-30 16:15:06,357:INFO:Starting pipeline creation for operation::update
 2019-09-30 16:15:06,358:INFO:DVC file already exists , updating the file
+2019-09-30 16:25:15,877:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:25:15,878:INFO:DVC file already exists , updating the file
+2019-09-30 16:25:21,295:INFO:Starting pipeline creation for operation::create
+2019-09-30 16:25:21,295:INFO:DVC file already exists
+2019-09-30 16:27:15,038:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:27:15,041:INFO:DVC file does not exists ,can not perform update operation
+2019-09-30 16:27:17,090:INFO:Starting pipeline creation for operation::create
+2019-09-30 16:27:17,093:INFO:Creating new pipeline
