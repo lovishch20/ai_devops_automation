@@ -6,7 +6,6 @@ import argparse
 import os
 
 
-
 # command line arguments
 parser = argparse.ArgumentParser(description='Train a model for iris classification.')
 args = parser.parse_args()
