@@ -16,3 +16,5 @@
 2019-09-30 16:27:17,093:INFO:Creating new pipeline
 2019-09-30 16:40:43,592:INFO:Starting pipeline creation for operation::update
 2019-09-30 16:40:43,595:INFO:DVC file already exists , updating the file
+2019-09-30 16:41:56,909:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:41:56,913:INFO:DVC file already exists , updating the file
